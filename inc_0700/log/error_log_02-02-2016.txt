@@ -1,0 +1,4 @@
+[Feb-02-2016 10:24:34] mysqli_connect(): (HY000/2005): Unknown MySQL server host 'jameriahcom.ipagemysql.com ' (0) in /hermes/bosnaweb05a/b264/ipg.jameriahcom/itc250/wn16/inc_0700/common_inc.php on line 1271
+[Feb-02-2016 10:24:34] Unknown MySQL server host 'jameriahcom.ipagemysql.com ' (0) in /hermes/bosnaweb05a/b264/ipg.jameriahcom/itc250/wn16/inc_0700/common_inc.php on line 1271
+[Feb-02-2016 10:30:58] Table 'my_new_db.test_Customers' doesn't exist in /hermes/bosnaweb05a/b264/ipg.jameriahcom/itc250/wn16/demo/demo_shared.php on line 47
+[Feb-02-2016 10:31:42] Table 'my_new_db.test_Customers' doesn't exist in /hermes/bosnaweb05a/b264/ipg.jameriahcom/itc250/wn16/demo/demo_shared.php on line 47
